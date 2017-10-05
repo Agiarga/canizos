@@ -1,2 +1,6 @@
+baseURL = "https://canizos.netlify.com/"
 languageCode = "en-gb"
 title = "My New Hugo Site"
+#theme = "hugo-icon"
+#theme = "hyde"
+theme = "ananke"

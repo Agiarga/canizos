@@ -1,22 +1,3 @@
----
-title: "Page2"
-date: 2017-10-05T15:06:21+02:00
-draft: false
----
-
-# Page 2
-text to be completed
-![close-up](../images/close-up.jpg)
-
-<div class="note warning">
-  <h5>Sharp edges</h5>
-  <p>
-    it cuts
-  </p>
- 
-</div>
-
-<style>
 .bs-callout {
     padding: 20px;
     margin: 20px 0;
@@ -73,35 +54,3 @@ text to be completed
 .bs-callout-info h4 {
     color: #5bc0de;
 }
-</style>
-
-
-<aside class="bs-callout bs-callout-default">
-  <h4>Default Callout</h4>
-  This is a default callout.
-</aside>
-
-<aside class="bs-callout bs-callout-primary">
-  <h4>Primary Callout</h4>
-  This is a primary callout.
-</aside>
-
-<div class="bs-callout bs-callout-success">
-  <h4>Success Callout</h4>
-  This is a success callout.
-</div>
-
-<div class="bs-callout bs-callout-info">
-  <h4>Info Callout</h4>
-  This is an info callout.
-</div>
-
-<div class="bs-callout bs-callout-warning">
-  <h4>Warning Callout</h4>
-  This is a warning callout.
-</div>
-
-<div class="bs-callout bs-callout-danger">
-  <h4>Danger Callout</h4>
-  This is a danger callout.
-</div>
